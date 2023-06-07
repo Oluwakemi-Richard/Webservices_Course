@@ -1,0 +1,3 @@
+# can get very large
+#should not be tracked on git
+node_modules
